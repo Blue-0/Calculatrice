@@ -1,2 +1,14 @@
-Réalisation d'une calculatrice en HTML / CSS / JS 
-Elle est capable de réaliser les calculs simple ainsi qu'afficher une alerte lorsqu'une erreur c'est produite. 
+# Calculatrice HTML/CSS/JS
+
+Ce projet consiste en la réalisation d'une calculatrice simple utilisant les langages HTML, CSS et JavaScript.
+
+## Fonctionnalités
+
+- Réalisation de calculs simples
+- Gestion des erreurs avec affichage d'une alerte en cas de problème
+
+## Technologies utilisées
+
+- HTML
+- CSS
+- JavaScript
